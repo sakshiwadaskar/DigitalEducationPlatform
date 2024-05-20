@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="absolutelayout">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/absolutelayout/velocity-tools-view-jsp-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/absolutelayout/velocity-engine-core-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/absolutelayout/objectdb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/absolutelayout/objectdb-jee.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/absolutelayout/velocity-tools-view-3.1-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/absolutelayout/darcula-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/absolutelayout/velocity-tools-view-jsp-3.0-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/absolutelayout/velocity-tools-view-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/absolutelayout/velocity-engine-core-2.3-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
